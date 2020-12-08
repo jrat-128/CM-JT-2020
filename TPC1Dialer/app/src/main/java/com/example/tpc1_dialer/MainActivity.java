@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
             String msg = QD2.button.getText().toString();
             @Override
             public boolean onLongClick(View view){
-                ACTIVITY_INDEX = 1;
+                ACTIVITY_INDEX = 2;
                 PHONE_NUMBER = QD2.number;
                 LABELS = QD2.label;
                 ClickNHold(msg);
@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
             String msg = QD3.button.getText().toString();
             @Override
             public boolean onLongClick(View view){
-                ACTIVITY_INDEX = 1;
+                ACTIVITY_INDEX = 3;
                 PHONE_NUMBER = QD3.number;
                 LABELS = QD3.label;
                 ClickNHold(msg);
