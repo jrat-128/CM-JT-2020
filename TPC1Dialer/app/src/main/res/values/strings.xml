@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TPC1-Dialer</string>
+    <string name="quick_dial_3">Quick Dial 3</string>
+    <string name="quick_dial_2">Quick Dial 2</string>
+    <string name="quick_dial_1">Quick Dial 1</string>
+    <string name="todo">TODO</string>
+    <string name="call">Call</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <string name="_6">6</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="_9">9</string>
+    <string name="_8">8</string>
+    <string name="_7">7</string>
+    <string name="hastag">#</string>
+    <string name="_0">0</string>
+    <string name="asterisk">*</string>
+    <string name="label">label</string>
+    <string name="Label">Label</string>
+    <string name="number">Number</string>
+    <string name="saveQDB">saveQDB</string>
+</resources>
